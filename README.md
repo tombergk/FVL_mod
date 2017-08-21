@@ -1,8 +1,8 @@
-This folder contains ipython notebook files **FVLmod_VariantsFiltration.ipynb** and **FVLmod_Simulation.ipynb** that give an overview of the whole exome sequencing analysis and permutations for variant distribution done for the following publication:
+This folder contains ipython notebook files **FVLmod_VariantsFiltration.ipynb** and **FVLmod_Simulation.ipynb** that give an overview of the whole exome sequencing analysis and permutations for variant distribution done for the following manuscript:
 
-**"Mapping thrombosis modifier genes by bulk exome sequencing mice from a sensitized ENU mutagenesis screen"**
+**"Whole exome sequencing of ENU-induced thrombosis modifier mutations in the mouse"**
 
-Kärt Tomberg, Randal J. Westrick,Emilee N. Kotnik, David Siemieniak, Guojing Zhu, Thomas Saunders, and David Ginsburg
+Kärt Tomberg, Randal J. Westrick,Emilee N. Kotnik, David Siemieniak, Guojing Zhu, Thomas Saunders, Audrey C. Cleuren, and David Ginsburg
 
 It contains:
 * Information about raw fastq file location
